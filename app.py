@@ -1,6 +1,6 @@
 import streamlit as st
 from multiapp import MultiApp
-from apps import home, analysis,shop, clusmap
+from apps import home, analysis,shop, clusmap,links
 
 st.set_page_config(layout="wide")
 
